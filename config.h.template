@@ -1,0 +1,4 @@
+#define WLAN_SSID "ssid"
+#define WLAN_PASS "secret"
+
+#define PLAN_URL "https://example.com/hp.txt"
